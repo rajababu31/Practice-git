@@ -1,0 +1,2 @@
+it is a file created in new branch called brach2
+lets make a chage to check in if it relfelcts in git hubgit git 
